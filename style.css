@@ -37,3 +37,6 @@ footer{
     border-left: 0px;
     border-color: hsl(215, 32%, 27%);
 }
+div p:last-of-type{
+    padding-right: 5px;
+}
