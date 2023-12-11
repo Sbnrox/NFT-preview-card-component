@@ -1,0 +1,30 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+    
+}
+p{
+    font-size: 18px;
+    color: hsl(215, 51%, 70%)
+}
+div{
+    max-width: 250px;
+    min-height: 250px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 10px;
+}
+h3{
+    color: white;
+}
+p:last-child{
+    color: white;
+}
+p:nth-of-type(3){
+    text-align: right;
+}
+
+header{
+
+    text-align: center;
+    padding-top: 20px;
+}
