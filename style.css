@@ -10,7 +10,7 @@ p{
     font-size: 1.125rem;
     color: hsl(215, 51%, 70%)
 }
-div{
+.card{
     max-width: 15.5rem;
     min-height: 250px;
     background-color: hsl(216, 50%, 16%);
@@ -40,6 +40,6 @@ footer{
     border-left: 0px;
     border-color: hsl(215, 32%, 27%);
 }
-div p:last-of-type{
+.card p:last-of-type{
     padding-right: 5px;
 }
